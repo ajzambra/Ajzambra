@@ -7,9 +7,9 @@ En este repositorio se encuentra contenido de distintas practicas universitaria 
 En esta sección se hablara de los proyecto
 <table>
     <tr>
-        <td>###Proyecto</td>
-        <td>###Descripción</td>
-        <td>###Enlance</td>
+        <td>Proyecto</td>
+        <td>Descripción</td>
+        <td>Enlance</td>
 
     </tr>
     <tr>
