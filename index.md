@@ -1,7 +1,4 @@
 #Repositorio de Andres Zambrano
 ##Contenido
-<table>
-    <tr>
-        <td>p</td>
-    </tr>
-</table>
+En este repositorio se encuentra contenido de distintas practicas universitaria ademas de proyectos personales como:
+* Pra
