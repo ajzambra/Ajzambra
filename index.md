@@ -35,13 +35,18 @@ En esta sección se hablara de los proyecto
 <p align="center">
 <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" style="width:300px; height:200px;" alt="Java">
 </p>
+
 * **Phyton:** Python es un lenguaje de programación interpretado, de alto nivel y multipropósito. Fue creado por Guido van Rossum y lanzado por primera vez en 1991. Python se destaca por su legibilidad y simplicidad, lo que lo convierte en un lenguaje muy popular tanto para principiantes como para desarrolladores experimentados.
+
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width:300px; height:200px;" alt="Phyton">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width:300px; height:300px;" alt="Phyton">
 </p>
+
 * **MySQL:** MySQL es un sistema de gestión de bases de datos relacional (RDBMS, por sus siglas en inglés) de código abierto y ampliamente utilizado. Fue desarrollado por Oracle Corporation y su objetivo principal es almacenar, gestionar y recuperar datos de manera eficiente.
+  
+</p>
 <p align="center">
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png](https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png)" style="width:300px; height:200px;" alt="MySQL">
+<img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" style="width:300px; height:200px;" alt="MySQL">
 </p>
 
 
