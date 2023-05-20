@@ -5,28 +5,28 @@ En este repositorio se encuentra contenido de distintas practicas universitaria 
 * Patrones de diseño
 ## Proyecto
 En esta sección se hablara de los proyecto
-* PROYECTO_POO_G10_P2: Este proyecto proyecto corresponde al proyecto de la materia de Programación Orientada a Objeto que consistia en un juego de carta <br>
+* **PROYECTO_POO_G10_P2:** Este proyecto proyecto corresponde al proyecto de la materia de Programación Orientada a Objeto que consistia en un juego de carta <br>
 **Estado del proyecto:** Terminado <br>
 [Visita el Proyecto](https://github.com/ajzambra/PROYECTO_POO_G10_P2)
-* Talle01-Snake-Grupo05: Proyecto que consiste en la practica de git <br>
+* **Talle01-Snake-Grupo05:** Proyecto que consiste en la practica de git <br>
 **Estado del proyecto:** Terminado <br>
 [Visita el Proyecto](https://github.com/ajzambra/Talle01-Snake-Grupo05)
-* Taller-Aspecto-GrupoE: Proyecto de la materia Diseño de Software que consiste en la practica de aspectos <br>
+* **Taller-Aspecto-GrupoE:** Proyecto de la materia Diseño de Software que consiste en la practica de aspectos <br>
 **Estado del proyecto:** Terminado <br>
 [Visita el Proyecto](https://github.com/ajzambra/Taller-Aspecto-GrupoE)
-* taller-SOLID-E5:  Proyecto de la materia Diseño de Software que consiste en la practica de aspectos <br>
+* **taller-SOLID-E5:**  Proyecto de la materia Diseño de Software que consiste en la practica de aspectos <br>
 **Estado del proyecto:** Terminado <br>
 [Visita el Proyecto](https://github.com/ajzambra/taller-SOLID-E5)
-* 01TareaAOP-2.0-GrupoE5: Proyecto de la materia Diseño de Software que consiste en la practica de programacion orientada a aspecto <br>
+* **01TareaAOP-2.0-GrupoE5:** Proyecto de la materia Diseño de Software que consiste en la practica de programacion orientada a aspecto <br>
 **Estado del proyecto:** Terminado <br>
 [Visita el Proyecto](https://github.com/ajzambra/01TareaAOP-2.0-GrupoE5)
-* Patrones-de-Diseno-C.-y-E.---Grupo5E:  Proyecto de la materia Diseño de Software que consiste en la practica de patrones de diseño <br>
+* **Patrones-de-Diseno-C.-y-E.---Grupo5E:**  Proyecto de la materia Diseño de Software que consiste en la practica de patrones de diseño <br>
 **Estado del proyecto:** Terminado <br>
 [Visita el Proyecto](https://github.com/ajzambra/Patrones-de-Diseno-C.-y-E.---Grupo5E)
-* TallerPatronesDisenoCEC-GrupoE5:  Proyecto de la materia Diseño de Software que consiste en la practica de patrones de diseño <br>
+* **TallerPatronesDisenoCEC-GrupoE5:**  Proyecto de la materia Diseño de Software que consiste en la practica de patrones de diseño <br>
 **Estado del proyecto:** Terminado <br>
 [Visita el Proyecto](https://github.com/ajzambra/TallerPatronesDisenoCEC-GrupoE5)
-* TallerPruebasUnitarias-GE5:  Proyecto de la materia Diseño de Software que consiste en la practica de pruebas unitarias <br>
+* **TallerPruebasUnitarias-GE5:**  Proyecto de la materia Diseño de Software que consiste en la practica de pruebas unitarias <br>
 **Estado del proyecto:** Terminado <br>
 [Visita el Proyecto](https://github.com/ajzambra/TallerPruebasUnitarias-GE5)
 
