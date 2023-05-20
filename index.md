@@ -31,17 +31,22 @@ En esta sección se hablara de los proyecto
 [Visita el Proyecto](https://github.com/ajzambra/TallerPruebasUnitarias-GE5)
 
 ## Tecnologia
-* **Java: ** Java es un lenguaje de programación de propósito general, orientado a objetos y diseñado para ser portable, lo que significa que puede ejecutarse en diferentes plataformas sin necesidad de reescribir el código
+* **Java:** Java es un lenguaje de programación de propósito general, orientado a objetos y diseñado para ser portable, lo que significa que puede ejecutarse en diferentes plataformas sin necesidad de reescribir el código
 <p align="center">
-<img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" style="width:300px; height:200px;" alt="Texto alternativo">
+<img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" style="width:300px; height:200px;" alt="Java">
 </p>
-* **Phyton: ** Python es un lenguaje de programación interpretado, de alto nivel y multipropósito. Fue creado por Guido van Rossum y lanzado por primera vez en 1991. Python se destaca por su legibilidad y simplicidad, lo que lo convierte en un lenguaje muy popular tanto para principiantes como para desarrolladores experimentados.
-![Phyton](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)
-* **MySQL: ** MySQL es un sistema de gestión de bases de datos relacional (RDBMS, por sus siglas en inglés) de código abierto y ampliamente utilizado. Fue desarrollado por Oracle Corporation y su objetivo principal es almacenar, gestionar y recuperar datos de manera eficiente.
-![MySQL](https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png)
+* **Phyton:** Python es un lenguaje de programación interpretado, de alto nivel y multipropósito. Fue creado por Guido van Rossum y lanzado por primera vez en 1991. Python se destaca por su legibilidad y simplicidad, lo que lo convierte en un lenguaje muy popular tanto para principiantes como para desarrolladores experimentados.
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width:300px; height:200px;" alt="Phyton">
+</p>
+* **MySQL:** MySQL es un sistema de gestión de bases de datos relacional (RDBMS, por sus siglas en inglés) de código abierto y ampliamente utilizado. Fue desarrollado por Oracle Corporation y su objetivo principal es almacenar, gestionar y recuperar datos de manera eficiente.
+<p align="center">
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png](https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png)" style="width:300px; height:200px;" alt="MySQL">
+</p>
+
 
 # Informacion de contacto
-* **Correo Electronico: ** [ajzambra@espol.edu.ec](mailto:ajzambra@espol.edu.ec)
+* **Correo Electronico:** [ajzambra@espol.edu.ec](mailto:ajzambra@espol.edu.ec)
 ## Redes sociales 
-* **Linkedin: ** [ajzambra@espol.edu.ec](https://www.linkedin.com/in/andres-zambrano-montero-49650b213/)
-* **Discord: ** GameStark#5804
+* **Linkedin:** [ajzambra@espol.edu.ec](https://www.linkedin.com/in/andres-zambrano-montero-49650b213/)
+* **Discord:** GameStark#5804
