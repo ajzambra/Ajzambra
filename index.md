@@ -1,8 +1,17 @@
 # Repositorio de Andres Zambrano
 ## Contenido
-En este repositorio se encuentra contenido de distintas practicas universitaria ademas de proyectos personales como:
-* Proyecto en Java
-* Patrones de diseño
+* [Informacion Personal](#informacion-personal)
+
+## Información Personal
+* **Nombre:** Andres Zambrano
+* **Ocupacion:** Estuadiante universitario, desarrollar de software java y jefe de inventario.
+* **Lugar de referencia:** Guayaquil, Ecuador
+* **Sitio Web:** [Link](https://ajzambra.github.io/ajzambra/)
+
+## Intereses
+* **Programacion** <br>
+
+
 ## Proyecto
 En esta sección se hablara de los proyecto
 * **PROYECTO_POO_G10_P2:** Este proyecto proyecto corresponde al proyecto de la materia de Programación Orientada a Objeto que consistia en un juego de carta <br>
